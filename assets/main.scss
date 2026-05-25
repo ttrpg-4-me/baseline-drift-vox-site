@@ -1,0 +1,42 @@
+---
+---
+
+$background-color:  #1c1c1e;
+$text-color:        #d4d4d4;
+$brand-color:       #6eb4f7;
+$grey-color:        #888;
+$grey-color-light:  #2e2e32;
+$grey-color-dark:   #bbb;
+
+@import "minima";
+
+
+.site-header,
+.site-footer {
+  background-color: #111113;
+  border-color: #2e2e32;
+}
+
+pre, code {
+  background-color: #2a2a2e;
+  border-color: #3a3a3e;
+}
+
+.bio-card {
+  margin-bottom: 2.5em;
+  padding-bottom: 2.5em;
+  border-bottom: 1px solid $grey-color-light;
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+
+  .bio-info h1 {
+    font-size: 1.15em;
+    margin-top: 0;
+    margin-bottom: 0.2em;
+  }
+}

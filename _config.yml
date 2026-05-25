@@ -1,0 +1,17 @@
+title: VOX OMNIA REX
+tagline: Your First (And Only) Source For News And Entertainment
+description: public-facing and constantly updated info from Vox Omnia Rex.
+baseurl: ""
+url: ""
+
+collections_dir: text
+collections:
+  bios:
+    output: false
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+sass:
+  style: compressed
