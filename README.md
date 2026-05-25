@@ -23,5 +23,11 @@ The website will have a color CRT monitor asthetic.
 ## Tools
 
 - Deploying + hosting with Netlify
-- Website developed with React
-- [marked](https://github.com/markedjs/marked) used to convert md files into html
+- [jekyll](https://github.com/jekyll/jekyll) used to support site where content comes mainly from markdown files and external links
+
+## Running The Site Locally
+
+```bash
+bundle exec jekyll serve
+```
+
