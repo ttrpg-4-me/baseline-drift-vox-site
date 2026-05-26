@@ -1,7 +1,7 @@
 ---
-image: https://t3.ftcdn.net/jpg/05/37/59/18/360_F_537591848_fmbEBkekUGKQZB48RlCSxH0YXdo8dHhW.jpg
+image: miriam_ritz.webp
 ---
 
-# Anchor Miriam Ritz
+# Miriam Ritz
 
-Sample text
+I'm hardly that interesting, puddin', I'm just your eyes and ears in those spots where you can't get 'em yourself. Let's see if we can't get our smiles to match as well, hmm?

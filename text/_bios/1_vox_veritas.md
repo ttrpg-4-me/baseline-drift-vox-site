@@ -1,7 +1,9 @@
 ---
-image: https://t3.ftcdn.net/jpg/05/37/59/18/360_F_537591848_fmbEBkekUGKQZB48RlCSxH0YXdo8dHhW.jpg
+image: vox_veritas.webp
 ---
 
 # Vox Veritas
 
-Sample text
+Do not ask me to lie, or to elaborate beyond _The Truth_. I am merely a journalist, an administrator, a facilitator of the greater talents I am privileged to work alongside and employ...
+
+...I am Vox Veritas, I serve the Navis Caeli and its people - the man I was before I took my name no longer matters.

@@ -1,7 +1,11 @@
 ---
-image: https://t3.ftcdn.net/jpg/05/37/59/18/360_F_537591848_fmbEBkekUGKQZB48RlCSxH0YXdo8dHhW.jpg
+image: peppa_pippa_poppo.webp
 ---
 
-# Anchors Peppa, Pippa, & Poppo
+# Peppa, Pippa, & Poppo
 
-Sample text
+"Ridiculous - a biography line? They SHOULD know Armand Paracelsus, doctorate in triplicate, expert extraordinaire!”
+
+_"Peppa they just know you for the “computers should have brains” meme…"_
+
+**[PO POPPO.]**

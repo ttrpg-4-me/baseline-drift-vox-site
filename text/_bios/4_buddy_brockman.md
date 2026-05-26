@@ -1,7 +1,9 @@
 ---
-image: https://t3.ftcdn.net/jpg/05/37/59/18/360_F_537591848_fmbEBkekUGKQZB48RlCSxH0YXdo8dHhW.jpg
+image: buddy_brockman.webp
 ---
 
-# Anchor Buddy Brockman
+# Buddy Brockman
 
-Sample text
+Producer, journalist, host, media personality, and your best friend aboard the Navis Caeli!
+
+I love to meet new people! If you see me around the ship come say hi!
