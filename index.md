@@ -3,6 +3,10 @@ layout: home
 permalink: /
 ---
 
+<div class="home-image-container">
+  <img class="home-image" src="{{ '/assets/images/home-image.svg' | relative_url }}" alt="Vox Omnia Rex">
+</div>
+
 # Welcome!
 
 - [About Us](/about/)

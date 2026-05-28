@@ -16,7 +16,7 @@ permalink: /about/
   {% for bio in site.bios %}
   <div class="bio-card">
     {% if bio.image %}
-    <img class="bio-image" src="../assets/images/{{ bio.image }}" alt="Personnel photo">
+    <img class="bio-image" src="{{ '/assets/images/' | append: bio.image | relative_url }}" alt="Personnel photo">
     {% endif %}
     <div class="bio-info">
       {{ bio.content | markdownify }}
