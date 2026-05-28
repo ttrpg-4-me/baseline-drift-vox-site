@@ -4,6 +4,8 @@ title: Events Calendar
 permalink: /events/
 ---
 
+Events are constantly being added to this calendar. Want _your_ event on the calendar? Reach out to us!
+
 <div class="calendar-wrap">
   <iframe
     src="https://calendar.google.com/calendar/embed?src=3d9439c9a8dd0c708b00a5a7053233b3c7672512d4a2e1179ea9448a8f0e5fb7%40group.calendar.google.com&ctz=America%2FNew_York&mode=WEEK"
