@@ -13,22 +13,38 @@ $grey-color-dark:   #bbb;
 .banner-container {
   position: relative;
   width: 100%;
-  height: 200px;
-  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 0;
 
   &::after {
     content: '';
     position: absolute;
     inset: 0;
     background: rgba(0, 0, 0, 0.35);
+    z-index: 1;
   }
 }
 
-.banner-image {
+.banner-bg {
+  position: absolute;
+  inset: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center;
+  display: block;
+  z-index: 0;
+}
+
+.banner-overlay {
+  position: relative;
+  z-index: 2;
+  max-height: 160px;
+  max-width: 85%;
+  width: auto;
+  height: auto;
   display: block;
 }
 
